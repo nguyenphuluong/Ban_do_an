@@ -4,7 +4,7 @@
 
 ---
 
-# 📱 Giới thiệu dự án
+#  Giới thiệu dự án
 
 Đây là ứng dụng đặt đồ ăn online được xây dựng bằng Flutter kết hợp NodeJS Express Server.
 
@@ -21,15 +21,15 @@
 
 ---
 
-# 🎥 Video Demo
+#  Video Demo
 
 [![Xem Video Demo](https://img.youtube.com/vi/0s1fqLggEeU/0.jpg)](https://youtu.be/0s1fqLggEeU)
 
-👉 Nhấn vào hình ảnh để xem video demo.
+ Nhấn vào hình ảnh để xem video demo.
 
 ---
 
-# 🚀 Công nghệ sử dụng
+#  Công nghệ sử dụng
 
 ## Frontend
 - Flutter
